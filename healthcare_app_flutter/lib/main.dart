@@ -1,20 +1,24 @@
 import 'package:flutter/material.dart';
-import 'prediction_page.dart';
+import 'screens/input_screen.dart';
 
 void main() {
-  runApp(const HealthCarePredictorApp());
+  runApp(const HealthcareApp());
 }
 
-class HealthCarePredictorApp extends StatelessWidget {
-  const HealthCarePredictorApp({super.key});
+class HealthcareApp extends StatelessWidget {
+  const HealthcareApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Healthcare Cost Predictor',
-      theme: ThemeData(primarySwatch: Colors.teal),
-      home: const PredictionPage(),
+      title: 'Lesotho Healthcare Predictor',
+      theme: ThemeData(
+        fontFamily: 'Roboto',
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.teal),
+        useMaterial3: true,
+      ),
       debugShowCheckedModeBanner: false,
+      home: const InputScreen(),
     );
   }
 }
