@@ -1,0 +1,501 @@
+age,sex,region,is_insured,employment_status,household_size,primary_healthcare_access,annual_income_lsl,healthcare_type,healthcare_cost_lsl
+53,female,Quthing,0,employed,2,difficult,37326.91,private,2218.71
+78,male,Thaba-Tseka,1,unemployed,9,difficult,56233.74,private,1009.35
+51,male,Butha-Buthe,0,self-employed,2,easy,28371.86,public,342.68
+70,male,Mafeteng,0,unemployed,2,moderate,98527.81,private,3714.55
+27,male,Quthing,0,employed,5,easy,87232.61,public,282.99
+27,female,Quthing,1,unemployed,3,easy,81675.97,private,1243.49
+48,male,Mohale's Hoek,0,employed,3,moderate,61939.91,public,218.6
+71,male,Mafeteng,1,self-employed,2,difficult,81126.98,public,118.7
+65,female,Thaba-Tseka,0,employed,5,difficult,48957.25,public,160.29
+55,female,Butha-Buthe,0,self-employed,4,easy,61198.13,public,611.76
+41,female,Qacha's Nek,1,self-employed,3,easy,75146.85,private,1209.4
+38,male,Mafeteng,1,employed,5,moderate,41772.08,public,338.18
+61,female,Leribe,1,self-employed,3,moderate,41103.06,public,299.19
+48,female,Mafeteng,1,self-employed,9,moderate,34280.48,private,1352.8
+38,female,Butha-Buthe,0,self-employed,8,difficult,8170.79,public,608.28
+27,female,Butha-Buthe,0,employed,2,difficult,93192.12,public,416.24
+20,female,Maseru,1,unemployed,9,moderate,15367.65,public,210.83
+72,male,Butha-Buthe,0,unemployed,1,difficult,78105.88,public,634.83
+25,male,Mafeteng,0,self-employed,2,difficult,86688.27,public,366.67
+76,male,Qacha's Nek,0,self-employed,7,difficult,57173.03,public,251.99
+28,female,Mafeteng,0,self-employed,2,moderate,75837.96,private,4692.57
+23,female,Leribe,0,self-employed,6,easy,21629.02,public,156.78
+46,male,Mafeteng,0,unemployed,6,moderate,54036.55,private,2291.88
+29,female,Thaba-Tseka,0,unemployed,7,moderate,19969.24,private,3536.51
+38,male,Qacha's Nek,1,self-employed,9,easy,81547.01,private,753.47
+42,male,Mohale's Hoek,0,employed,4,moderate,41901.08,public,569.49
+77,female,Qacha's Nek,1,employed,3,difficult,65224.46,public,207.61
+63,male,Leribe,0,self-employed,9,moderate,70023.67,public,530.47
+24,male,Thaba-Tseka,0,employed,6,easy,53693.08,public,444.44
+71,female,Mafeteng,0,unemployed,8,moderate,86837.39,public,641.66
+26,male,Butha-Buthe,1,self-employed,8,easy,54034.49,public,243.42
+21,female,Thaba-Tseka,0,employed,4,difficult,73547.55,private,2747.3
+20,male,Butha-Buthe,0,employed,1,difficult,28553.78,private,3718.54
+51,male,Butha-Buthe,1,unemployed,4,moderate,94143.41,public,254.49
+67,female,Qacha's Nek,1,employed,8,difficult,34786.51,public,124.53
+19,male,Quthing,1,self-employed,9,difficult,39767.8,public,341.06
+55,male,Leribe,1,unemployed,4,easy,7591.31,public,284.7
+19,male,Butha-Buthe,0,self-employed,3,easy,71144.99,private,4489.36
+28,female,Mohale's Hoek,0,unemployed,6,moderate,25617.65,public,542.04
+41,male,Thaba-Tseka,0,employed,5,easy,70497.6,private,1236.74
+69,male,Leribe,1,employed,2,moderate,44175.42,public,199.83
+33,male,Butha-Buthe,1,employed,9,moderate,41074.49,public,280.78
+42,female,Butha-Buthe,0,self-employed,3,difficult,96803.67,private,879.91
+18,male,Mohale's Hoek,0,unemployed,7,easy,74313.65,public,212.99
+66,female,Mafeteng,0,employed,6,easy,56901.13,public,339.58
+46,female,Leribe,0,unemployed,8,moderate,79591.73,public,445.16
+60,male,Thaba-Tseka,0,employed,9,difficult,46185.62,public,393.44
+24,female,Leribe,1,self-employed,4,easy,27507.49,public,257.23
+38,male,Mafeteng,0,employed,9,easy,85913.62,public,187.28
+72,female,Butha-Buthe,1,unemployed,9,difficult,91263.69,private,1218.02
+23,female,Maseru,1,employed,2,easy,40166.73,private,780.28
+44,female,Leribe,0,self-employed,9,difficult,59506.62,private,929.55
+55,female,Mohale's Hoek,0,self-employed,8,easy,77834.16,private,4891.98
+56,female,Butha-Buthe,0,employed,2,difficult,15347.1,public,292.89
+44,female,Quthing,0,self-employed,8,easy,58368.42,private,4719.79
+77,male,Mohale's Hoek,1,self-employed,9,moderate,49124.52,public,187.31
+74,female,Mohale's Hoek,0,self-employed,2,moderate,25776.33,public,540.21
+19,male,Leribe,1,unemployed,3,moderate,58089.53,private,1071.76
+41,male,Mohale's Hoek,0,unemployed,2,easy,25904.73,private,4000.26
+74,female,Butha-Buthe,1,employed,1,moderate,72108.11,private,1184.75
+28,female,Maseru,1,unemployed,1,moderate,56449.12,public,227.99
+42,female,Butha-Buthe,0,employed,8,moderate,70086.29,public,464.7
+32,male,Butha-Buthe,1,unemployed,4,moderate,55028.68,public,99.28
+71,female,Mohale's Hoek,1,unemployed,5,easy,14244.26,private,656.42
+40,female,Qacha's Nek,0,employed,3,moderate,54988.76,private,3424.72
+20,male,Quthing,1,employed,8,moderate,72679.75,private,780.96
+49,male,Mohale's Hoek,1,self-employed,9,easy,39022.16,public,180.91
+26,male,Qacha's Nek,1,unemployed,6,difficult,83150.85,public,203.52
+37,male,Leribe,0,employed,2,difficult,64876.94,private,4415.7
+27,female,Qacha's Nek,0,employed,1,difficult,49090.01,public,163.15
+46,male,Qacha's Nek,0,employed,7,difficult,83686.7,public,641.81
+47,female,Qacha's Nek,0,employed,4,moderate,83638.95,private,4079.65
+67,female,Leribe,1,self-employed,3,difficult,90999.49,private,822.18
+30,male,Qacha's Nek,1,unemployed,2,difficult,59871.77,public,222.96
+53,female,Mafeteng,1,unemployed,9,difficult,61189.32,public,172.94
+29,male,Maseru,1,unemployed,2,moderate,58937.69,private,1136.02
+34,male,Quthing,0,unemployed,9,easy,38426.69,private,2944.31
+52,male,Leribe,0,self-employed,1,easy,9273.76,private,2372.08
+44,male,Maseru,1,employed,7,easy,85613.0,private,699.37
+41,female,Quthing,0,self-employed,2,difficult,48298.04,private,2255.41
+21,female,Leribe,1,self-employed,9,moderate,29973.68,private,1538.45
+52,male,Leribe,0,self-employed,2,difficult,95611.78,public,205.25
+47,female,Mohale's Hoek,1,employed,6,easy,49995.04,private,694.75
+34,male,Butha-Buthe,1,self-employed,5,easy,33626.12,public,137.94
+52,male,Butha-Buthe,1,self-employed,7,moderate,93964.48,public,149.92
+34,male,Leribe,0,unemployed,2,difficult,76405.96,public,536.54
+71,male,Qacha's Nek,1,unemployed,5,difficult,49464.32,public,125.31
+46,male,Maseru,1,employed,3,easy,15058.05,public,172.25
+24,male,Quthing,1,employed,8,moderate,19203.75,public,147.56
+42,male,Mohale's Hoek,1,employed,8,difficult,24628.24,private,1531.01
+73,female,Maseru,1,unemployed,2,difficult,20005.37,private,1223.65
+18,male,Leribe,0,self-employed,7,moderate,16943.13,public,539.34
+34,male,Leribe,0,self-employed,7,easy,28335.98,private,4746.23
+50,female,Butha-Buthe,1,employed,1,moderate,20326.53,public,107.56
+58,female,Quthing,1,employed,2,moderate,10796.99,private,845.72
+63,male,Quthing,1,self-employed,9,moderate,10799.07,private,1222.91
+74,male,Qacha's Nek,0,unemployed,1,difficult,17553.0,public,603.03
+24,male,Maseru,0,employed,2,moderate,41838.95,private,1007.01
+44,female,Thaba-Tseka,1,employed,7,moderate,19446.19,private,1112.77
+26,female,Thaba-Tseka,1,employed,2,moderate,85874.93,public,293.65
+41,female,Mafeteng,1,unemployed,3,difficult,34646.15,public,97.0
+22,male,Butha-Buthe,1,employed,6,difficult,78613.31,public,222.71
+23,male,Mohale's Hoek,0,employed,1,moderate,84377.2,public,555.8
+45,male,Leribe,0,self-employed,7,moderate,36862.54,public,338.12
+51,female,Thaba-Tseka,0,employed,2,easy,26845.51,public,415.66
+19,male,Mohale's Hoek,0,self-employed,5,easy,69821.79,public,155.41
+21,female,Mafeteng,1,self-employed,3,easy,97239.22,private,559.08
+71,male,Mafeteng,0,unemployed,5,difficult,25075.41,public,547.0
+37,female,Thaba-Tseka,0,employed,4,easy,9865.83,public,483.24
+76,female,Butha-Buthe,0,unemployed,2,difficult,50505.07,private,3634.11
+75,female,Mafeteng,0,employed,4,moderate,60600.31,public,486.67
+71,male,Thaba-Tseka,1,unemployed,5,difficult,79486.54,public,228.21
+69,male,Qacha's Nek,0,employed,6,easy,55890.81,public,562.99
+24,male,Quthing,0,employed,8,difficult,56496.45,public,400.44
+63,female,Leribe,1,unemployed,3,easy,43051.68,private,1254.87
+74,female,Maseru,0,unemployed,8,easy,8439.54,private,1813.45
+63,male,Qacha's Nek,1,employed,4,difficult,39255.39,public,160.54
+59,male,Butha-Buthe,1,self-employed,2,difficult,47383.96,private,857.07
+69,female,Mohale's Hoek,0,self-employed,4,moderate,71630.76,private,3773.34
+18,female,Butha-Buthe,0,unemployed,6,easy,55498.42,public,404.73
+53,female,Maseru,1,unemployed,6,moderate,19000.67,public,236.51
+40,female,Thaba-Tseka,1,unemployed,5,easy,86442.13,private,971.51
+44,female,Mohale's Hoek,1,employed,9,easy,60583.4,private,782.22
+22,female,Mohale's Hoek,0,employed,3,easy,84813.75,public,405.67
+51,male,Maseru,1,unemployed,8,easy,32444.66,private,1371.48
+72,male,Mohale's Hoek,1,self-employed,2,difficult,49565.61,public,299.66
+42,female,Mafeteng,0,employed,7,easy,40271.43,private,1612.39
+32,female,Maseru,1,unemployed,8,easy,10129.9,private,932.77
+19,male,Mohale's Hoek,0,employed,7,easy,7804.01,private,3015.39
+18,male,Qacha's Nek,1,self-employed,6,easy,12263.14,private,1412.66
+35,female,Butha-Buthe,0,unemployed,8,easy,26847.61,public,273.15
+25,female,Qacha's Nek,0,unemployed,8,easy,47719.93,public,204.64
+26,male,Maseru,0,self-employed,8,easy,59597.0,public,611.65
+43,female,Maseru,0,unemployed,2,moderate,27742.16,public,407.23
+31,female,Mafeteng,0,self-employed,6,difficult,36039.36,private,876.33
+79,male,Mohale's Hoek,1,unemployed,1,difficult,84821.86,public,339.67
+66,female,Mohale's Hoek,1,employed,4,difficult,32934.16,private,788.49
+75,male,Leribe,0,employed,7,difficult,23723.54,public,520.83
+34,female,Quthing,1,employed,8,difficult,96753.5,public,113.31
+55,male,Quthing,0,self-employed,9,easy,99633.9,private,2669.04
+21,male,Qacha's Nek,1,unemployed,9,easy,76344.33,public,264.66
+30,female,Leribe,0,self-employed,6,moderate,86960.31,private,3728.42
+78,female,Mafeteng,0,employed,8,moderate,96947.87,public,380.72
+52,female,Mafeteng,1,unemployed,1,easy,56900.65,public,292.46
+60,male,Qacha's Nek,0,unemployed,4,difficult,30540.24,private,1644.1
+59,female,Leribe,0,self-employed,6,difficult,23602.84,private,2021.55
+56,female,Mafeteng,1,unemployed,5,easy,80898.72,private,1173.64
+57,male,Quthing,0,unemployed,7,difficult,54301.2,private,2314.15
+25,male,Mohale's Hoek,0,unemployed,6,difficult,71803.62,public,577.22
+56,female,Qacha's Nek,1,unemployed,6,easy,82217.66,public,217.88
+25,female,Quthing,0,employed,1,difficult,12396.95,public,211.79
+31,female,Qacha's Nek,1,employed,3,moderate,40656.88,public,152.78
+55,female,Mohale's Hoek,1,unemployed,4,moderate,63208.8,private,1312.19
+29,male,Thaba-Tseka,1,unemployed,5,difficult,56548.49,public,221.39
+27,male,Leribe,1,unemployed,8,difficult,63791.09,public,163.85
+25,male,Butha-Buthe,1,self-employed,4,moderate,39544.74,private,1335.38
+49,male,Qacha's Nek,1,unemployed,7,difficult,90526.31,private,1017.81
+25,male,Quthing,1,self-employed,6,moderate,95519.08,private,646.28
+62,female,Thaba-Tseka,1,unemployed,7,easy,6346.63,private,1316.44
+63,male,Qacha's Nek,0,employed,2,moderate,16260.26,private,4709.18
+34,female,Mohale's Hoek,1,unemployed,3,difficult,18597.19,public,300.72
+50,male,Mafeteng,0,employed,5,difficult,23344.1,private,1555.22
+58,female,Thaba-Tseka,1,employed,3,difficult,53934.21,private,851.05
+18,male,Leribe,1,unemployed,6,moderate,53065.4,public,116.19
+33,male,Leribe,1,self-employed,4,easy,34248.35,private,583.38
+67,female,Qacha's Nek,1,self-employed,7,easy,19610.0,private,875.6
+50,female,Mohale's Hoek,1,unemployed,9,difficult,49402.25,public,289.26
+40,male,Thaba-Tseka,1,self-employed,3,easy,88515.17,public,168.51
+28,female,Mohale's Hoek,0,unemployed,6,easy,86363.89,public,530.24
+63,female,Thaba-Tseka,1,employed,8,difficult,9208.84,public,189.97
+27,female,Mafeteng,0,unemployed,4,easy,56032.95,public,513.26
+79,female,Thaba-Tseka,1,employed,4,moderate,84817.11,private,1019.82
+63,female,Mafeteng,1,self-employed,7,easy,15012.55,public,121.12
+58,male,Quthing,1,unemployed,8,difficult,9575.49,private,1045.92
+58,female,Mafeteng,1,self-employed,1,easy,63407.21,private,961.75
+35,male,Quthing,0,unemployed,8,easy,24910.24,public,264.34
+59,male,Mafeteng,0,self-employed,8,difficult,5996.08,public,331.38
+28,male,Maseru,0,employed,3,easy,28554.61,private,1226.28
+78,male,Quthing,0,self-employed,3,easy,69090.18,private,1219.37
+19,female,Qacha's Nek,1,self-employed,1,moderate,20946.57,public,307.74
+24,female,Quthing,0,employed,4,easy,40490.93,public,414.65
+49,female,Mohale's Hoek,1,self-employed,6,moderate,99696.33,private,1184.05
+72,male,Thaba-Tseka,1,self-employed,7,difficult,88921.12,public,145.45
+28,male,Butha-Buthe,1,employed,6,moderate,80354.39,private,1138.81
+49,male,Thaba-Tseka,1,self-employed,6,easy,28099.38,public,187.05
+54,female,Mohale's Hoek,0,self-employed,5,difficult,53698.8,private,3604.09
+48,female,Maseru,0,unemployed,9,difficult,38593.68,private,3660.03
+50,male,Butha-Buthe,1,employed,6,easy,76977.64,private,858.99
+38,female,Quthing,1,self-employed,9,easy,44497.3,private,654.24
+37,male,Butha-Buthe,1,employed,4,difficult,89650.31,public,319.56
+46,female,Butha-Buthe,1,self-employed,9,difficult,79157.53,public,346.65
+34,female,Leribe,0,employed,9,difficult,23903.73,public,581.31
+58,female,Maseru,0,unemployed,3,moderate,60290.34,public,628.5
+24,male,Mohale's Hoek,0,employed,2,easy,61880.55,private,4729.45
+21,male,Qacha's Nek,1,unemployed,5,difficult,61753.97,public,277.37
+60,female,Qacha's Nek,0,self-employed,7,moderate,45798.7,public,254.95
+44,female,Mafeteng,1,employed,9,difficult,5104.14,public,264.58
+64,female,Maseru,0,self-employed,4,moderate,47810.76,public,537.89
+24,male,Butha-Buthe,1,employed,3,difficult,25560.26,private,1359.73
+32,female,Maseru,0,employed,3,difficult,71527.32,private,4385.48
+23,female,Leribe,0,employed,7,moderate,49498.76,private,3125.41
+78,male,Mohale's Hoek,1,self-employed,1,moderate,46061.61,private,1419.2
+54,male,Mafeteng,0,self-employed,2,moderate,55099.22,private,3525.1
+74,male,Qacha's Nek,0,unemployed,5,easy,72175.25,public,408.25
+35,male,Mohale's Hoek,0,unemployed,5,easy,96214.86,private,2418.66
+52,male,Quthing,1,unemployed,9,moderate,62970.18,private,669.48
+65,male,Thaba-Tseka,1,self-employed,2,easy,99886.28,public,279.3
+70,male,Mafeteng,0,unemployed,6,easy,86779.16,private,958.9
+43,female,Mohale's Hoek,0,unemployed,9,difficult,98179.61,public,379.48
+47,male,Butha-Buthe,0,self-employed,3,moderate,49833.44,private,3424.93
+25,female,Thaba-Tseka,0,self-employed,1,easy,60329.62,public,472.67
+27,female,Qacha's Nek,1,employed,7,easy,81404.14,public,257.96
+22,male,Mohale's Hoek,0,self-employed,3,moderate,85942.42,public,189.0
+33,male,Mafeteng,0,self-employed,6,difficult,42890.75,public,564.05
+73,male,Thaba-Tseka,0,employed,9,difficult,58822.53,private,1607.52
+51,male,Leribe,0,self-employed,9,difficult,94688.97,public,570.57
+69,female,Quthing,1,self-employed,2,difficult,91880.41,public,307.78
+79,female,Mafeteng,0,unemployed,5,difficult,38841.69,public,246.53
+79,female,Mohale's Hoek,0,self-employed,5,easy,97521.67,private,4920.21
+61,female,Mohale's Hoek,0,self-employed,5,moderate,13988.42,private,1773.29
+75,male,Quthing,0,unemployed,8,moderate,71785.97,private,4803.29
+23,female,Thaba-Tseka,0,employed,6,difficult,67741.6,private,4120.03
+38,male,Mohale's Hoek,1,employed,9,moderate,91811.84,private,645.74
+43,female,Mafeteng,0,self-employed,7,easy,38974.01,private,1448.95
+33,male,Qacha's Nek,0,employed,7,difficult,87517.08,public,449.63
+42,male,Leribe,1,unemployed,5,moderate,40930.18,private,842.63
+72,female,Mohale's Hoek,1,unemployed,5,difficult,16016.92,private,1455.64
+64,female,Qacha's Nek,1,unemployed,9,difficult,46508.0,private,848.08
+65,female,Mafeteng,0,unemployed,5,difficult,71768.87,public,480.11
+70,male,Thaba-Tseka,1,unemployed,2,easy,93969.99,private,781.61
+43,male,Qacha's Nek,0,employed,9,easy,82807.5,public,412.61
+53,female,Mafeteng,0,unemployed,4,easy,45034.83,private,3056.43
+36,female,Leribe,0,employed,6,difficult,95137.15,private,2030.75
+34,female,Thaba-Tseka,1,self-employed,4,moderate,98337.29,public,283.69
+49,male,Mohale's Hoek,0,employed,5,moderate,67433.78,public,354.04
+70,female,Mafeteng,0,self-employed,4,easy,9553.5,private,4560.21
+39,female,Quthing,0,unemployed,1,difficult,77011.19,public,409.74
+68,male,Mohale's Hoek,1,unemployed,6,difficult,15757.59,private,1034.72
+27,male,Butha-Buthe,1,employed,5,difficult,63580.57,public,150.12
+28,female,Maseru,1,unemployed,3,moderate,85865.1,private,1054.34
+70,male,Mafeteng,0,employed,7,difficult,84783.33,private,1800.8
+23,female,Mafeteng,0,self-employed,8,easy,14092.5,private,3951.12
+57,male,Qacha's Nek,0,self-employed,9,easy,28324.68,public,510.74
+67,male,Maseru,0,self-employed,5,difficult,71054.41,public,302.71
+29,male,Mafeteng,0,self-employed,6,difficult,44936.11,private,2619.74
+73,female,Mohale's Hoek,0,employed,3,moderate,91166.09,public,497.37
+45,female,Thaba-Tseka,0,unemployed,8,difficult,70199.53,public,419.4
+78,female,Thaba-Tseka,1,employed,1,moderate,70736.28,public,319.4
+47,male,Qacha's Nek,1,self-employed,1,easy,26848.88,public,125.35
+48,female,Butha-Buthe,0,employed,6,easy,86341.91,public,238.72
+69,female,Qacha's Nek,1,employed,2,moderate,88536.24,public,268.93
+36,male,Leribe,0,unemployed,6,moderate,38510.05,public,377.66
+31,female,Mafeteng,1,unemployed,6,difficult,86833.37,private,1337.8
+46,female,Qacha's Nek,0,unemployed,5,easy,56934.09,public,591.89
+55,female,Leribe,0,self-employed,8,moderate,55521.23,public,475.49
+39,female,Mafeteng,1,employed,8,difficult,18538.49,private,1509.75
+18,female,Maseru,1,employed,4,difficult,10149.96,public,271.26
+58,male,Qacha's Nek,1,employed,1,difficult,84663.89,public,125.17
+51,male,Mafeteng,0,employed,8,difficult,84357.91,private,2161.68
+76,female,Leribe,1,unemployed,2,easy,25609.64,private,1080.83
+67,female,Leribe,1,unemployed,4,moderate,35298.45,private,1106.47
+56,male,Mohale's Hoek,0,employed,7,difficult,20431.57,public,474.98
+75,female,Mohale's Hoek,0,self-employed,6,moderate,89199.59,public,557.39
+45,female,Thaba-Tseka,1,employed,3,easy,48817.36,public,191.72
+54,male,Maseru,1,self-employed,8,difficult,71023.51,private,1040.88
+74,female,Maseru,0,unemployed,7,easy,85110.79,public,387.63
+48,male,Butha-Buthe,0,unemployed,1,easy,63164.49,public,492.11
+44,female,Butha-Buthe,0,unemployed,8,easy,68393.4,private,2821.87
+71,male,Mafeteng,0,self-employed,3,easy,14888.1,private,1580.81
+41,male,Quthing,0,self-employed,6,difficult,48280.33,private,4820.21
+43,female,Maseru,1,unemployed,5,difficult,41514.34,private,982.03
+30,female,Mafeteng,0,unemployed,7,easy,49873.56,public,443.41
+49,female,Mafeteng,0,unemployed,9,difficult,69974.26,private,1830.83
+64,female,Butha-Buthe,0,self-employed,7,easy,57829.85,public,559.16
+68,female,Butha-Buthe,0,employed,8,moderate,66115.59,public,526.87
+64,male,Quthing,1,unemployed,1,easy,97431.78,public,294.89
+19,female,Leribe,1,employed,9,easy,92340.15,private,1409.05
+74,female,Thaba-Tseka,1,employed,6,difficult,81196.01,public,137.6
+30,male,Thaba-Tseka,0,self-employed,5,moderate,80164.35,private,2917.99
+73,male,Mohale's Hoek,1,employed,6,moderate,99730.15,private,1281.19
+31,female,Quthing,1,unemployed,4,moderate,82009.67,public,100.95
+44,female,Maseru,0,employed,6,easy,59728.62,private,2185.33
+48,male,Thaba-Tseka,1,employed,4,easy,34102.48,private,572.9
+36,male,Thaba-Tseka,0,unemployed,3,moderate,65805.37,private,2626.21
+34,male,Thaba-Tseka,0,employed,6,difficult,10885.01,private,2085.4
+35,female,Leribe,1,self-employed,9,difficult,14714.0,private,1352.56
+71,male,Thaba-Tseka,1,employed,4,easy,27139.54,private,747.99
+74,female,Qacha's Nek,0,unemployed,4,difficult,79576.63,private,2097.75
+60,male,Mafeteng,0,self-employed,8,easy,51915.5,private,4244.31
+51,male,Butha-Buthe,1,unemployed,5,difficult,24070.21,public,287.26
+54,female,Mohale's Hoek,0,self-employed,9,easy,90312.03,public,239.66
+78,female,Mafeteng,1,unemployed,3,moderate,54250.35,public,253.58
+69,male,Mohale's Hoek,0,unemployed,4,moderate,58100.73,private,2421.54
+58,female,Quthing,1,self-employed,6,difficult,60398.25,public,233.41
+27,female,Mohale's Hoek,1,self-employed,3,moderate,82392.56,public,228.85
+72,female,Maseru,0,employed,7,difficult,92754.62,public,238.84
+25,female,Qacha's Nek,0,employed,3,difficult,60160.46,private,4891.0
+56,female,Leribe,1,self-employed,3,moderate,6041.23,private,1105.88
+33,female,Butha-Buthe,1,self-employed,1,difficult,5251.39,private,801.31
+56,female,Quthing,1,employed,7,difficult,99435.68,public,267.77
+53,female,Thaba-Tseka,1,self-employed,3,difficult,77099.79,private,1291.11
+49,female,Mohale's Hoek,1,employed,3,easy,87421.84,public,114.19
+61,female,Mohale's Hoek,0,employed,2,easy,82724.96,public,283.56
+43,female,Quthing,0,employed,9,moderate,19036.72,public,417.52
+40,female,Leribe,1,unemployed,1,moderate,56346.63,public,279.53
+42,male,Leribe,0,unemployed,9,moderate,66140.17,private,4745.61
+40,female,Qacha's Nek,1,employed,9,moderate,74427.24,private,1019.51
+65,female,Maseru,0,self-employed,1,easy,98812.48,public,181.92
+36,female,Mohale's Hoek,0,self-employed,9,moderate,96850.19,private,4135.35
+26,female,Qacha's Nek,0,unemployed,6,easy,93775.76,public,234.93
+47,male,Thaba-Tseka,0,unemployed,6,moderate,38732.17,public,462.23
+50,female,Qacha's Nek,1,unemployed,2,easy,78665.99,private,1348.48
+62,male,Quthing,0,employed,7,difficult,34325.23,private,3755.51
+47,female,Qacha's Nek,0,unemployed,2,easy,86325.44,private,2962.29
+58,female,Mafeteng,0,employed,6,moderate,98001.48,private,4749.04
+61,female,Quthing,1,self-employed,4,easy,41989.33,public,205.31
+72,female,Butha-Buthe,1,employed,9,moderate,81039.96,private,1561.82
+67,female,Maseru,1,unemployed,8,easy,11854.24,public,185.66
+57,female,Leribe,0,unemployed,5,easy,29744.97,public,155.17
+49,male,Maseru,0,unemployed,5,moderate,23221.01,public,354.38
+59,female,Quthing,1,self-employed,4,difficult,67272.27,private,614.02
+38,female,Thaba-Tseka,1,employed,5,easy,7600.72,public,233.19
+61,male,Mohale's Hoek,0,employed,4,difficult,96693.91,private,2963.01
+39,male,Mohale's Hoek,0,self-employed,8,moderate,37665.8,public,324.87
+67,male,Thaba-Tseka,1,self-employed,7,easy,14987.74,public,252.52
+64,female,Mohale's Hoek,1,unemployed,8,difficult,97773.25,private,1222.37
+47,male,Maseru,1,unemployed,4,difficult,84917.19,private,1111.01
+35,female,Mohale's Hoek,1,employed,2,difficult,53758.27,private,693.68
+23,female,Qacha's Nek,0,self-employed,5,difficult,30673.64,private,2334.27
+62,male,Mohale's Hoek,1,self-employed,5,moderate,70708.44,private,936.44
+54,female,Qacha's Nek,0,employed,5,easy,47058.48,public,321.76
+71,female,Maseru,0,employed,3,moderate,54809.06,public,428.7
+19,female,Leribe,0,self-employed,5,easy,98964.7,private,4740.92
+24,male,Butha-Buthe,0,unemployed,5,easy,80857.62,public,463.94
+43,male,Butha-Buthe,0,self-employed,9,easy,41536.99,private,1346.8
+72,male,Qacha's Nek,1,unemployed,5,difficult,11575.42,private,1134.26
+52,male,Mafeteng,0,employed,7,moderate,96105.56,private,2748.16
+63,female,Mohale's Hoek,1,employed,9,easy,57447.38,public,220.83
+55,female,Mafeteng,0,self-employed,3,difficult,57361.38,public,273.61
+70,female,Thaba-Tseka,1,unemployed,4,easy,57954.48,public,284.45
+28,male,Quthing,0,self-employed,3,moderate,42118.87,public,319.07
+42,female,Leribe,1,self-employed,8,difficult,44641.36,private,1088.44
+39,female,Quthing,1,unemployed,1,difficult,11815.56,public,108.57
+34,female,Leribe,0,employed,6,difficult,15747.97,private,2143.07
+50,male,Thaba-Tseka,0,self-employed,5,easy,16922.01,public,447.13
+47,male,Thaba-Tseka,1,unemployed,7,difficult,63457.63,private,656.71
+74,male,Thaba-Tseka,0,unemployed,4,difficult,39009.78,public,449.11
+68,female,Qacha's Nek,1,self-employed,1,easy,25297.85,private,587.19
+76,male,Mohale's Hoek,0,employed,5,moderate,68437.91,private,1196.71
+29,male,Mafeteng,1,self-employed,3,moderate,21672.73,private,700.23
+44,female,Butha-Buthe,1,self-employed,8,moderate,93593.03,private,1155.34
+72,male,Quthing,1,self-employed,3,easy,60034.3,public,177.08
+27,female,Mafeteng,0,self-employed,1,moderate,91301.84,private,1812.47
+34,female,Maseru,1,unemployed,2,moderate,51559.93,private,792.82
+61,male,Quthing,0,self-employed,4,moderate,78855.57,private,3458.37
+44,male,Butha-Buthe,0,self-employed,8,easy,78987.29,private,4510.53
+55,female,Leribe,1,employed,3,easy,96934.86,public,93.71
+46,male,Qacha's Nek,1,employed,5,moderate,47259.9,public,316.07
+78,male,Thaba-Tseka,0,unemployed,2,difficult,66455.89,private,1948.59
+49,male,Thaba-Tseka,0,unemployed,3,difficult,61893.85,public,254.5
+57,male,Leribe,0,employed,5,moderate,45949.06,public,235.49
+53,female,Leribe,1,unemployed,6,moderate,55389.33,public,152.51
+28,male,Thaba-Tseka,1,unemployed,3,easy,84033.62,public,257.28
+34,male,Qacha's Nek,1,employed,5,easy,24145.34,public,275.76
+49,female,Maseru,0,employed,2,difficult,11540.22,public,296.97
+35,female,Maseru,0,employed,4,easy,37211.08,private,2502.74
+34,female,Mafeteng,1,unemployed,7,difficult,27870.2,private,1277.67
+33,male,Thaba-Tseka,1,unemployed,7,moderate,9796.2,public,219.7
+73,female,Mohale's Hoek,0,self-employed,1,difficult,10516.0,private,1836.35
+42,male,Leribe,0,self-employed,5,difficult,94129.49,public,535.06
+23,female,Butha-Buthe,0,employed,1,easy,57014.48,public,492.84
+38,male,Qacha's Nek,0,employed,6,moderate,94572.27,public,483.95
+44,female,Mohale's Hoek,0,unemployed,1,difficult,5045.07,public,389.48
+18,female,Leribe,1,employed,6,moderate,61933.85,public,123.15
+47,female,Maseru,1,self-employed,5,moderate,81386.76,public,316.17
+30,male,Leribe,0,unemployed,1,moderate,60424.36,private,4881.18
+43,male,Qacha's Nek,1,unemployed,9,moderate,65358.59,public,246.84
+48,female,Mafeteng,1,employed,4,moderate,76596.97,private,1380.8
+44,male,Thaba-Tseka,1,self-employed,1,moderate,71694.19,public,148.16
+55,female,Maseru,0,self-employed,3,moderate,89566.85,private,1830.35
+51,male,Butha-Buthe,0,employed,4,easy,16091.02,public,339.9
+73,female,Thaba-Tseka,1,unemployed,7,difficult,73347.5,public,207.87
+62,male,Butha-Buthe,1,self-employed,4,moderate,85244.59,private,1302.7
+20,male,Leribe,0,employed,2,difficult,91450.13,public,180.94
+52,female,Thaba-Tseka,1,unemployed,2,difficult,25498.27,public,190.49
+41,male,Butha-Buthe,1,employed,7,moderate,32604.7,public,124.93
+40,female,Mohale's Hoek,0,unemployed,3,moderate,15439.0,private,1883.27
+20,male,Mafeteng,1,unemployed,6,moderate,99874.72,private,1007.68
+33,female,Qacha's Nek,1,employed,5,difficult,28140.5,private,1321.79
+46,female,Quthing,1,unemployed,5,difficult,64381.52,private,849.4
+52,male,Mafeteng,1,employed,5,easy,34791.64,private,693.98
+75,female,Qacha's Nek,0,unemployed,9,moderate,49800.4,private,2525.0
+59,male,Mafeteng,1,self-employed,4,moderate,34323.16,public,250.07
+68,female,Butha-Buthe,1,self-employed,3,easy,77866.51,private,1261.27
+58,male,Maseru,1,self-employed,3,easy,8388.42,private,877.55
+74,male,Butha-Buthe,0,employed,7,moderate,86486.95,public,569.58
+35,female,Quthing,0,unemployed,3,moderate,79148.35,public,292.52
+79,male,Quthing,1,employed,4,difficult,21231.67,private,1113.76
+72,female,Thaba-Tseka,1,unemployed,2,moderate,8478.76,public,341.28
+71,female,Thaba-Tseka,1,employed,9,easy,50970.67,private,1548.1
+68,female,Leribe,1,unemployed,3,difficult,31743.57,private,953.02
+78,female,Quthing,0,self-employed,7,easy,77921.45,private,2117.04
+40,male,Qacha's Nek,1,self-employed,4,easy,52189.15,private,883.78
+42,female,Butha-Buthe,1,unemployed,1,difficult,79008.3,private,676.09
+45,female,Qacha's Nek,0,unemployed,1,moderate,49745.14,public,320.34
+68,female,Quthing,0,employed,6,easy,30325.77,private,3622.13
+78,female,Maseru,0,unemployed,2,difficult,55024.04,public,632.84
+51,male,Butha-Buthe,1,unemployed,3,moderate,91294.69,public,200.06
+54,female,Quthing,1,unemployed,1,moderate,86663.33,private,563.14
+51,female,Mohale's Hoek,0,employed,5,difficult,23339.64,private,2212.86
+41,female,Quthing,1,self-employed,7,moderate,78453.56,private,968.85
+60,male,Mafeteng,0,unemployed,5,difficult,83841.33,public,536.67
+74,male,Butha-Buthe,0,unemployed,6,moderate,83475.86,public,217.0
+25,male,Thaba-Tseka,1,unemployed,1,easy,16143.73,public,258.31
+75,female,Qacha's Nek,1,employed,1,difficult,46027.18,private,615.58
+42,male,Thaba-Tseka,1,employed,8,easy,65490.52,public,215.31
+48,male,Butha-Buthe,0,employed,3,difficult,16334.5,public,329.94
+22,female,Leribe,1,self-employed,2,easy,83977.45,private,1308.09
+23,female,Quthing,1,self-employed,5,difficult,98206.61,public,116.51
+40,male,Thaba-Tseka,1,unemployed,6,difficult,71893.11,private,823.95
+50,male,Qacha's Nek,0,employed,5,easy,33405.19,public,296.61
+77,female,Mafeteng,1,employed,4,difficult,7651.37,public,210.23
+77,female,Thaba-Tseka,0,self-employed,5,moderate,22177.23,private,2274.89
+58,female,Butha-Buthe,0,employed,6,difficult,72265.31,public,612.25
+65,female,Thaba-Tseka,1,unemployed,1,moderate,79793.81,public,272.66
+71,male,Thaba-Tseka,0,employed,5,easy,63312.97,private,3207.54
+65,male,Qacha's Nek,0,employed,9,easy,40549.14,public,290.26
+37,female,Leribe,1,employed,7,difficult,56980.39,public,145.97
+66,female,Butha-Buthe,1,self-employed,9,difficult,44539.18,public,201.42
+74,female,Maseru,1,self-employed,2,easy,63356.63,public,185.28
+36,female,Thaba-Tseka,0,unemployed,3,difficult,13522.66,public,480.54
+20,female,Qacha's Nek,1,employed,7,easy,18022.54,public,113.73
+67,male,Thaba-Tseka,0,self-employed,4,moderate,96901.01,private,1783.79
+24,male,Qacha's Nek,1,employed,2,difficult,46817.07,private,1384.57
+28,male,Leribe,1,unemployed,5,difficult,10144.35,public,176.23
+27,female,Maseru,1,employed,3,easy,49576.26,private,1432.58
+58,male,Quthing,1,employed,6,moderate,11756.41,private,1313.64
+53,female,Leribe,1,unemployed,7,moderate,67402.23,private,1182.72
+50,male,Quthing,0,self-employed,5,difficult,41152.44,public,268.6
+51,male,Butha-Buthe,0,self-employed,1,easy,11536.38,private,3616.33
+57,female,Leribe,1,employed,5,moderate,80173.1,public,299.94
+20,female,Quthing,1,self-employed,4,difficult,63074.35,private,538.08
+69,male,Mafeteng,1,self-employed,3,easy,70385.51,public,340.35
+75,female,Quthing,0,employed,4,difficult,23092.85,private,4774.71
+41,male,Qacha's Nek,0,self-employed,9,easy,45674.81,private,5023.95
+23,male,Butha-Buthe,0,unemployed,3,moderate,82030.27,private,1998.21
+21,male,Mohale's Hoek,0,employed,2,difficult,16430.3,private,1845.98
+18,female,Mohale's Hoek,0,unemployed,4,difficult,70023.45,public,162.46
+26,female,Mafeteng,0,employed,1,difficult,50057.34,public,470.03
+54,male,Thaba-Tseka,0,self-employed,1,easy,90260.85,public,614.81
+21,female,Thaba-Tseka,0,employed,5,difficult,80194.68,private,3034.12
+38,female,Butha-Buthe,1,self-employed,9,moderate,90028.28,private,1150.66
+76,male,Mohale's Hoek,0,self-employed,8,difficult,31236.52,public,486.28
+38,male,Butha-Buthe,0,employed,7,difficult,76103.74,private,4846.16
+35,male,Mafeteng,1,employed,1,easy,65827.59,public,95.74
+36,male,Leribe,0,self-employed,7,easy,78073.18,public,590.89
+52,male,Butha-Buthe,1,unemployed,1,difficult,66724.34,private,1074.64
+52,male,Thaba-Tseka,0,self-employed,5,moderate,64902.29,public,393.96
+64,male,Butha-Buthe,1,employed,4,easy,19263.89,private,1243.28
+65,male,Qacha's Nek,1,unemployed,2,easy,19957.57,private,1151.08
+79,female,Quthing,0,employed,7,moderate,62914.24,public,521.5
+36,male,Leribe,1,unemployed,6,moderate,70392.76,private,1320.89
+60,male,Quthing,1,unemployed,9,easy,86608.09,private,696.66
+33,female,Butha-Buthe,0,employed,4,easy,21900.59,private,2063.79
+73,male,Leribe,1,self-employed,7,moderate,60239.34,private,1226.58
+68,male,Qacha's Nek,0,self-employed,4,moderate,61070.3,private,1604.76
+36,female,Maseru,1,employed,8,difficult,17230.64,private,1530.47
+29,female,Maseru,0,self-employed,7,easy,90232.88,private,3846.57
+51,male,Butha-Buthe,1,unemployed,1,easy,13312.35,private,1364.97
+48,female,Maseru,1,self-employed,5,easy,78123.11,public,254.64
+19,male,Maseru,1,self-employed,3,easy,14342.35,private,732.4
+33,female,Quthing,1,employed,5,moderate,88002.68,private,663.99
+79,female,Maseru,1,self-employed,1,difficult,56110.49,private,594.3
+28,female,Quthing,0,employed,5,moderate,15807.18,public,531.94
+74,male,Mohale's Hoek,1,self-employed,5,easy,78259.02,public,262.44
+77,female,Leribe,1,unemployed,1,moderate,58710.01,private,925.2
+59,male,Quthing,1,unemployed,4,difficult,48404.9,private,1316.58
+35,male,Thaba-Tseka,1,self-employed,4,difficult,77685.78,private,1024.58
+76,male,Leribe,1,self-employed,9,easy,11173.31,private,1140.66
+68,male,Maseru,1,employed,4,difficult,22984.43,private,1525.6
+61,female,Butha-Buthe,0,employed,1,moderate,26113.33,public,455.9
+41,female,Mohale's Hoek,1,employed,5,moderate,58275.4,private,862.19
+74,female,Qacha's Nek,0,employed,6,difficult,91432.77,private,2585.34
+77,female,Mafeteng,1,employed,3,easy,95438.21,private,1527.85
+40,female,Leribe,0,unemployed,2,easy,29655.34,private,1170.29
+51,female,Maseru,1,self-employed,9,moderate,9324.54,private,1194.87
+23,female,Butha-Buthe,0,self-employed,4,difficult,12987.79,public,570.38
+29,female,Butha-Buthe,1,unemployed,9,easy,89115.53,private,1357.84
+77,female,Thaba-Tseka,0,unemployed,2,difficult,74645.07,public,554.95
+55,male,Leribe,1,employed,4,difficult,16449.4,public,254.15
+36,male,Quthing,1,employed,4,moderate,76509.09,private,590.41
+31,male,Mohale's Hoek,0,self-employed,1,easy,13913.73,private,2645.23
+74,male,Leribe,0,unemployed,6,easy,83954.47,private,3587.54
+48,female,Leribe,0,employed,8,difficult,63088.45,public,253.48
+34,female,Mohale's Hoek,1,employed,1,moderate,40409.12,public,234.12
+57,female,Butha-Buthe,0,self-employed,1,moderate,57987.02,public,353.97
+78,female,Mohale's Hoek,0,unemployed,9,difficult,14335.1,private,3860.08
+45,female,Quthing,0,unemployed,7,moderate,42622.19,public,329.28
+59,male,Quthing,1,self-employed,6,easy,78854.22,public,268.98
+44,male,Butha-Buthe,1,unemployed,9,difficult,88146.74,private,1546.91
