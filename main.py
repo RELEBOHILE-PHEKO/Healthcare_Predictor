@@ -4,7 +4,7 @@ from pydantic import BaseModel, Field
 from typing import Literal
 import pandas as pd
 
-from API.prediction  import predict_cost, model, scaler, feature_names, model_type
+from API.prediction import predict_cost, model, scaler, feature_names, model_type
 
 app = FastAPI(
     title="Lesotho Healthcare Cost Prediction API",
@@ -84,5 +84,5 @@ def model_info():
     return {
         "model_type": model_type,
         "features_count": len(feature_names),
-        "feature_names": feature_names[:10],
+        "feature_names": feature_names[:10] if hasattr(feature_names, '__len__') else [],
     }
