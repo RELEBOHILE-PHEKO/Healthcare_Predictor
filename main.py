@@ -4,7 +4,7 @@ from pydantic import BaseModel, Field
 from typing import Literal
 import pandas as pd
 
-from prediction import predict_cost, model, scaler, feature_names, model_type
+from API.prediction  import predict_cost, model, scaler, feature_names, model_type
 
 app = FastAPI(
     title="Lesotho Healthcare Cost Prediction API",
