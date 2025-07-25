@@ -52,7 +52,6 @@ It simulates a real-world solution for tackling cost-related barriers to care.
 
 ### 1. Clone the Repo
 
-``
 
 ```
 git clone https://github.com/<your-username>/<repo-name>.git
@@ -107,7 +106,7 @@ Healthcare_Predictor/
             │   ├── prediction.py
             │   ├── scaler.pkl
             │   ├── start.sh
-            │   └── healthcare_app_flutter/     # Your mobile frontend
+            │   └── healthcare_app_flutter/     # The mobile frontend
             ├── linear_regression/
             │   └── Multivariate.ipynb          # Model training notebook
             ├── lesotho_healthcare_costs.csv   # Synthetic dataset
