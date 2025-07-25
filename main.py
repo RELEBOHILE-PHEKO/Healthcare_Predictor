@@ -1,3 +1,4 @@
+
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
@@ -84,5 +85,4 @@ def model_info():
     return {
         "model_type": model_type,
         "features_count": len(feature_names),
-        "feature_names": feature_names[:10] if hasattr(feature_names, '__len__') else [],
-    }
+        "feature_names": feature_names[:10] if hasattr(feature_names, '__len__') else []}

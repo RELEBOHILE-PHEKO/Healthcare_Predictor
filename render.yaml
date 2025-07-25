@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 services:
   - type: web
     name: healthcare-api
@@ -12,3 +13,19 @@ services:
       - key: PYTHON_VERSION
         value: 3.11.8
     autoDeploy: true
+=======
+services:
+  - type: web
+    name: healthcare-api
+    runtime: python
+    plan: free
+    region: oregon
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "bash API/start.sh"
+    envVars:
+      - key: MODEL_PATH
+        value: API/best_model.pkl
+      - key: PYTHON_VERSION
+        value: 3.11.8
+    autoDeploy: true
+>>>>>>> 59200d9e4a7904fe9c9a2fb19144a082c08b29a2
