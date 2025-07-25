@@ -24,7 +24,7 @@ services:
     startCommand: "bash API/start.sh"
     envVars:
       - key: MODEL_PATH
-        value: API/best_model.pkl
+        value: API/linear_regression_model.pkl
       - key: PYTHON_VERSION
         value: 3.11.8
     autoDeploy: true

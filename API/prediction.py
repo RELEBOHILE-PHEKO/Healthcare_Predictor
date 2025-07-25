@@ -159,4 +159,8 @@ def predict_demo(input_df):
     return round(total_cost, 2)
 
 # Load model components when module is imported
+<<<<<<< HEAD
 load_model_components()
+=======
+load_model_components()
+>>>>>>> 9a0b529987b4c48b33cccbc25ef423620ef58514
