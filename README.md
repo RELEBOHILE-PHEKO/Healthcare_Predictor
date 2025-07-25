@@ -1,14 +1,9 @@
-Perfect, got you! Here's the **final edited version** of your `README.md` reflecting:
-
-✅ Title = **Healthcare Predictor**
-✅ Data = **Synthetic data based on Lesotho**
-✅ Everything clean, focused, and submission-ready.
 
 ---
 
 # 🧠 Healthcare Predictor
 
-A mobile-first machine learning project that predicts individual healthcare costs using **synthetic data** generated to reflect healthcare trends in **Lesotho**.
+A mobile machine learning project that predicts individual healthcare costs using **synthetic data** generated to reflect healthcare trends in **Lesotho**.
 
 Built with:
 
@@ -20,7 +15,10 @@ Built with:
 
 ## 🎯 Mission & Problem
 
-Predicting healthcare costs helps improve financial planning and access to medical services. This solution uses **synthetic data based on Lesotho** to simulate real-world health-related spending patterns and predict costs based on key factors like age, income, region, and more.
+This project offers a predictive tool to help individuals—especially low-income or uninsured—estimate healthcare costs.
+It enables better financial planning and supports informed decision-making in low-access settings.
+The model is built on synthetic data representing Lesotho’s healthcare landscape.
+It simulates a real-world solution for tackling cost-related barriers to care.
 
 ---
 
@@ -56,7 +54,7 @@ Predicting healthcare costs helps improve financial planning and access to medic
 
 ``
 git clone https://github.com/<your-username>/<repo-name>.git
-cd linear_regression_model/summative/FlutterApp
+cd Healthcare_Prediction/healthcare_app_flutter
 ```
 
 ### 2. Update API Endpoint in Dart
@@ -84,7 +82,7 @@ flutter run
 ## 🧪 Run the API Locally (Optional)
 
 ```
-cd linear_regression_model/summative/API
+cd Healthcare_Predictor/API
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
