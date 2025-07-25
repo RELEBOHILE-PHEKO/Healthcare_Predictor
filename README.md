@@ -53,10 +53,11 @@ It simulates a real-world solution for tackling cost-related barriers to care.
 ### 1. Clone the Repo
 
 ``
+
+```
 git clone https://github.com/<your-username>/<repo-name>.git
 
 cd Healthcare_Prediction/healthcare_app_flutter
-```
 ```
 ### 2. Update API Endpoint in Dart
 
