@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
@@ -87,7 +85,6 @@ def model_info():
         "model_type": model_type,
         "features_count": len(feature_names),
         "feature_names": feature_names[:10] if hasattr(feature_names, '__len__') else []}
-=======
 """
 Lesotho Healthcare Cost Prediction API
 FastAPI application for predicting healthcare costs based on demographic data
@@ -272,4 +269,3 @@ def internal_error_handler(request, exc):
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=10000, reload=True)
->>>>>>> 9a0b529987b4c48b33cccbc25ef423620ef58514
