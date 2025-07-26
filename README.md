@@ -24,11 +24,13 @@ It simulates a real-world solution for tackling cost-related barriers to care.
 
 ## 📊 Model Performance
 
-| Model             | Train R² | Test R² | Test MAE | Test MSE   |
-| ----------------- | -------- | ------- | -------- | ---------- |
-| Linear Regression | 0.9447   | 0.9224  | 371.04   | 218,304.28 |
-| Decision Tree     | 1.0000   | 0.9529  | 293.96   | 132,412.84 |
-| Random Forest     | 0.9970   | 0.9764  | 210.45   | 66,469.49  |
+| Model                           | Test MSE      | Test R²    | Test MAE   |
+| ------------------------------- | ------------- | ---------- | ---------- |
+| **Linear Regression (GD)**      | 191,449.03    | 0.9284     | 340.82     |
+| **Linear Regression (Sklearn)** | 192,898.68    | 0.9279     | 341.52     |
+| **Decision Tree**               | 170,737.14    | 0.9362     | 314.74     |
+| **Random Forest** 🏆            | **66,985.90** | **0.9750** | **202.69** |
+
 
 ✅ **Chosen Model:** *Linear Regression*
 
