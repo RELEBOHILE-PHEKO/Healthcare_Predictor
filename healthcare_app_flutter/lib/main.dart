@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screens/input_screen.dart';
+import 'screens/home_screen.dart';
 
 void main() {
   runApp(const HealthcareApp());
@@ -18,7 +18,7 @@ class HealthcareApp extends StatelessWidget {
         useMaterial3: true,
       ),
       debugShowCheckedModeBanner: false,
-      home: const InputScreen(),
+      home: const HomeScreen(),
     );
   }
 }
