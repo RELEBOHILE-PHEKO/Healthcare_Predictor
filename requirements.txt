@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 fastapi
 uvicorn[standard]
 pydantic
@@ -18,7 +17,6 @@ sniffio
 starlette
 typing-inspection
 typing_extensions
-=======
 fastapi
 uvicorn[standard]
 pydantic
@@ -38,4 +36,4 @@ sniffio
 starlette
 typing-inspection
 typing_extensions
->>>>>>> 59200d9e4a7904fe9c9a2fb19144a082c08b29a2
+
