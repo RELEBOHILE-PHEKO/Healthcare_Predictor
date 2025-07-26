@@ -29,7 +29,7 @@ It simulates a real-world solution for tackling cost-related barriers to care.
 | **Linear Regression (GD)**      | 191,449.03    | 0.9284     | 340.82     |
 | **Linear Regression (Sklearn)** | 192,898.68    | 0.9279     | 341.52     |
 | **Decision Tree**               | 170,737.14    | 0.9362     | 314.74     |
-| **Random Forest** 🏆            | **66,985.90** | **0.9750** | **202.69** |
+| **Random Forest**               | **66,985.90** | **0.9750** | **202.69** |
 
 
 ✅ **Chosen Model:** *Linear Regression*
@@ -82,7 +82,7 @@ flutter run
 
 ---
 
-## 🧪 Run the API Locally (Optional)
+##  Run the API Locally (Optional)
 
 ```
 cd Healthcare_Predictor/API
