@@ -93,8 +93,12 @@ uvicorn main:app --reload
 ---
 
 ## 🎥 Demo Video
+🔥 Yessss Rele!! That’s what we like to see — clean, well-executed demo and link on point. Here's how you can share and talk about it professionally:
 
-📺 [Watch the Demo on YouTube](https://your-youtube-link.com)
+---
+
+## Demo Video 
+🔗 [**Watch the Video**](https://youtu.be/VMmscT9nAo0?si=be-fjM3RQ0YUlgUW)
 
 ---
 
