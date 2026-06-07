@@ -1,19 +1,19 @@
 
 ---
 
-# 🧠 Healthcare Predictor
+#  Healthcare Predictor
 
 A mobile machine learning project that predicts individual healthcare costs using **synthetic data** generated to reflect healthcare trends in **Lesotho**.
 
 Built with:
 
-* ⚙️ **FastAPI** backend
-* 📱 **Flutter** mobile app
-* ☁️ Deployed on **Render**
+*  **FastAPI** backend
+*  **Flutter** mobile app
+*  Deployed on **Render**
 
 ---
 
-## 🎯 Mission & Problem
+##  Mission & Problem
 
 This project offers a predictive tool to help individuals—especially low-income or uninsured—estimate healthcare costs.
 It enables better financial planning and supports informed decision-making in low-access settings.
@@ -22,7 +22,7 @@ It simulates a real-world solution for tackling cost-related barriers to care.
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 | Model                           | Test MSE      | Test R²    | Test MAE   |
 | ------------------------------- | ------------- | ---------- | ---------- |
@@ -32,7 +32,7 @@ It simulates a real-world solution for tackling cost-related barriers to care.
 | **Random Forest**               | **66,985.90** | **0.9750** | **202.69** |
 
 
-✅ **Chosen Model:** *Linear Regression*
+ **Chosen Model:** *Linear Regression*
 
 > Chosen for its simplicity, fast inference on mobile, interpretability, and low risk of overfitting—making it ideal for deployment in real-world, low-resource settings.
 
@@ -46,7 +46,7 @@ It simulates a real-world solution for tackling cost-related barriers to care.
 * **Swagger Docs:**
   [`/docs`](https://healthcare-predictor-aelg.onrender.com/docs)
 
-> 🧪 Test predictions, explore required fields, and validate inputs via Swagger UI.
+>  Test predictions, explore required fields, and validate inputs via Swagger UI.
 
 ---
 
@@ -97,7 +97,7 @@ uvicorn main:app --reload
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Healthcare_Predictor/
