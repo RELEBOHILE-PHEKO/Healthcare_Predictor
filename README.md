@@ -38,7 +38,7 @@ It simulates a real-world solution for tackling cost-related barriers to care.
 
 ---
 
-## 🔗 Public API (Hosted on Render)
+##  Public API (Hosted on Render)
 
 * **Base URL:**
   [`https://healthcare-predictor-aelg.onrender.com`](https://healthcare-predictor-aelg.onrender.com)
@@ -50,7 +50,7 @@ It simulates a real-world solution for tackling cost-related barriers to care.
 
 ---
 
-## 📱 Running the Flutter Mobile App
+##  Running the Flutter Mobile App
 
 ### 1. Clone the Repo
 
